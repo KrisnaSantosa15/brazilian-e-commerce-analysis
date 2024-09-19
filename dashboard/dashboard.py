@@ -69,7 +69,7 @@ def get_customer_count(df, ascending=False):
 
 
 # Load Data
-all_data = pd.read_csv("all_data.csv")
+all_data = pd.read_csv("dashboard/all_data.csv")
 
 datetime_columns = ['order_purchase_timestamp', 'order_approved_at',
                     'order_delivered_carrier_date', 'order_delivered_customer_date', 'order_estimated_delivery_date']
