@@ -1,6 +1,6 @@
 # Brazilian E-Commerce RFM and Geospatial Analysis
 
-Proyek ini merupakan proyek analisis data yang bertujuan untuk menganalisis data penjualan e-commerce di Brazil. Data yang digunakan berasal dari [Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce). Proyek ini terdiri dari dua analisis, yaitu analisis RFM (Recency, Frequency, Monetary) dan analisis geospatial. Analisis RFM bertujuan untuk mengelompokkan pelanggan berdasarkan perilaku pembelian mereka, sedangkan analisis geospatial bertujuan untuk mengetahui sebaran pelanggan di Brazil.
+Proyek ini merupakan proyek analisis data yang bertujuan untuk menganalisis data penjualan e-commerce di Brazil. Data yang digunakan berasal dari [Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce). Proyek ini terdiri dari dua analisis, yaitu analisis RFM (Recency, Frequency, Monetary) dan analisis geospatial. Analisis RFM bertujuan untuk mengelompokkan pelanggan berdasarkan perilaku pembelian mereka, sedangkan analisis geospatial bertujuan untuk mengetahui sebaran pelanggan.
 
 Access this project on [Streamlit Sharing](https://olist-rfm-analysis.streamlit.app/).
 
@@ -21,6 +21,7 @@ Dataset yang digunakan dalam proyek ini terdiri dari beberapa file, yaitu:
 - Seaborn
 - Streamlit
 - Babel
+- Plotly
 
 
 ## Setup Environment - Anaconda
