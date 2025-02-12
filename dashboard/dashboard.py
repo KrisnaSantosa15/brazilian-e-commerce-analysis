@@ -11,7 +11,7 @@ st.title("📊 Customer Segmentation Dashboard")
 
 @st.cache_data
 def load_data():
-    df = pd.read_csv("all_data.csv")
+    df = pd.read_csv("data/all_data.csv")
     datetime_cols = ['order_purchase_timestamp', 'order_approved_at',
                      'order_delivered_carrier_date', 'order_delivered_customer_date', 'order_estimated_delivery_date']
     for col in datetime_cols:

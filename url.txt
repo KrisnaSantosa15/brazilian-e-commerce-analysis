@@ -1,1 +1,1 @@
-https://olist-rfm-analysis.streamlit.app/
+https://customer-segmentation-olist-rfm.streamlit.app/
